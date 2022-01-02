@@ -1,5 +1,5 @@
 ## 3d box with a bouncing ball
 
 
-![3dGifs](https://user-images.githubusercontent.com/14501804/147869663-e218bfc5-a6fb-42e0-8e8c-32b6484f8112.mp4)
 
+![only-css-1](https://user-images.githubusercontent.com/14501804/147869799-406196fc-d0b7-4b73-806d-1719066e39ba.gif)
