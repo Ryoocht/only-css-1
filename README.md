@@ -1,4 +1,4 @@
-## 3d box with a bouncing ball
+# 3D Box with a Bouncing Ball
 
 
 
